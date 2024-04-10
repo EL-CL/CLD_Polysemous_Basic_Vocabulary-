@@ -7,3 +7,7 @@ The second consists of dictionaries and their publication information and dates,
 The third is a converted version of the Cross-Linguistic Database, used as input data for generating the Polysemous Semantic Networks. The converting method can be found in the section "Building the semantic network" in the main text. We have included a script named 'preparing_network_data.py' with the purpose of processing data from the Cross-Linguistic Database of Polysemous Basic Vocabulary for visualization in Gephi. 
 The fourth file contains information on the modularity classification of nodes in Figure 2, indicating that the 60 concepts and their senses belong to 34 different communities. 
 The fifth file contains information on the modularity classification of nodes in the filtered network shown in Figure 3, indicating that the 60 concepts and their senses belong to 10 communities.
+
+If you use this database, please cite:
+
+Liang, Y., Xu, K., & Ran, Q. (2024). Shared structure of fundamental human experience revealed by polysemy network of basic vocabularies across languages. Scientific Reports, 14, 5877. https://doi.org/10.1038/s41598-024-56571-8
